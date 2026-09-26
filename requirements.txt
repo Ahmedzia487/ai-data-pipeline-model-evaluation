@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+transformers
+torch
+streamlit
+plotly
+joblib
+pytest
